@@ -1,4 +1,4 @@
-package dsa.java8.practice;
+package dsa.java8.practice.interviewProg;
 
 import java.util.Map;
 import java.util.function.Function;

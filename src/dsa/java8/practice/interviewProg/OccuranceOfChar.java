@@ -1,4 +1,4 @@
-package dsa.java8.practice;
+package dsa.java8.practice.interviewProg;
 
 public class OccuranceOfChar {
 
@@ -8,6 +8,7 @@ public class OccuranceOfChar {
 
          long numberOfOccurance = input.chars().filter(c -> c== targetChar).count();
          System.out.println("count "+ numberOfOccurance);
+
 
     }
 }

@@ -13,7 +13,6 @@ public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {22, 64, 11, 2, 94, 81};
         
-        
         int n = arr.length;
 
 
